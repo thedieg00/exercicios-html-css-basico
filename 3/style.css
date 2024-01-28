@@ -1,0 +1,12 @@
+.texto-paragrafo {
+    margin: 40px;
+    padding: 20px;
+}
+
+.paragrafo-fundo-padrao {
+    background-color: #F5F5F5;
+}
+
+.paragrafo-fundo-colorido {
+    background-color: #F0CCE2;
+}
